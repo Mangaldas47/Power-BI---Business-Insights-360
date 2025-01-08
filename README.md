@@ -8,19 +8,19 @@
 
 **Dashboards**:
 
-1) Finance View: Overview of AtliQ Hardware's financial performance, including profit/loss statements and key financial metrics.
+1) [Finance View](https://github.com/Mangaldas47/Power-BI---Business-Insights-360/blob/main/02_Finance_View.jpg): Overview of AtliQ Hardware's financial performance, including profit/loss statements and key financial metrics.
 
    
-3) Sales View: In-depth analysis of sales trends, customer buying behavior, and product performance to inform sales strategies.
+3) [Sales View](https://github.com/Mangaldas47/Power-BI---Business-Insights-360/blob/main/03_Sales_View.jpg): In-depth analysis of sales trends, customer buying behavior, and product performance to inform sales strategies.
 
    
-5) Marketing View: Analyze product performance with key metrics, similar to the Sales View, and gain insights into marketing campaign effectiveness, customer engagement, and market trends.
+5) [Marketing View](https://github.com/Mangaldas47/Power-BI---Business-Insights-360/blob/main/04_Marketing_View.jpg): Analyze product performance with key metrics, similar to the Sales View, and gain insights into marketing campaign effectiveness, customer engagement, and market trends.
 
     
-7) Supply Chain View: Evaluate supply chain performance through reliability and forecast accuracy metrics, and gain visibility into inventory levels, supplier performance, and logistics operations.
+7) [Supply Chain View](https://github.com/Mangaldas47/Power-BI---Business-Insights-360/blob/main/05_Supply_Chain_View.jpg): Evaluate supply chain performance through reliability and forecast accuracy metrics, and gain visibility into inventory levels, supplier performance, and logistics operations.
 
    
-9) Executive View: Provide an integrated view of key insights for executives to inform strategic decision-making, and offer a high-level overview of AtliQ Hardware's overall business performance, including key metrics and trends.
+9) [Executive View](https://github.com/Mangaldas47/Power-BI---Business-Insights-360/blob/main/06_Executive_View.jpg): Provide an integrated view of key insights for executives to inform strategic decision-making, and offer a high-level overview of AtliQ Hardware's overall business performance, including key metrics and trends.
     
 
 **Learnings**:
